@@ -89,60 +89,6 @@
             "city": "Москва",
             "country": "Россия",
             "banner": "https://steamuserimages-a.akamaihd.net/ugc/2477619372090735650/0AA5080F64B785BD2CB2592E22DA5590A81C5E46/"
-        },
-        {
-            "id": 11,
-            "title": "Интернет-магазин Ситилинк",
-            "description": "Специальные предложения от интернет-магазина Ситилинк выгодное предложение",
-            "end_date": "1721446757",
-            "city": "Санкт-петербург",
-            "country": "Россия",
-            "banner": "https://u.9111s.ru/uploads/202201/27/f1f8797d02fd42bfbf0f3a965962aec1.jpg"
-        },
-        {
-            "id": 12,
-            "title": "Интернет-магазин Ситилинк",
-            "description": "Специальные предложения от интернет-магазина Ситилинк выгодное предложение",
-            "end_date": "1721446757",
-            "city": "Москва",
-            "country": "Россия",
-            "banner": "https://u.9111s.ru/uploads/202201/27/f1f8797d02fd42bfbf0f3a965962aec1.jpg"
-        },
-        {
-            "id": 13,
-            "title": "Интернет-магазин и салоны МегаФона",
-            "description": "Специальные предложения в интернет-магазине и салонах МегаФона",
-            "end_date": "1721446757",
-            "city": "Москва",
-            "country": "Россия",
-            "banner": "https://sun9-60.userapi.com/impg/t5Hykpz6dOtxj_ZKlTCD2x3F0NZ1sznCTffAEQ/5v5t_XaXcNc.jpg?size=807x538&quality=96&sign=4dfd6b03444a8f946ad9ff9496e31204&c_uniq_tag=lK5y4sQjAvoHvLV9mV4XqsIZsWQva-MINvE0YPikaYE&type=album"
-        },
-        {
-            "id": 14,
-            "title": "Мобильная связь Ростелеком",
-            "description": "Специальные тарифы «Ростелеком» (агент) для Москвы и других регионов",
-            "end_date": "1721446757",
-            "city": "Москва",
-            "country": "Россия",
-            "banner": "https://steamuserimages-a.akamaihd.net/ugc/2477619372090735650/0AA5080F64B785BD2CB2592E22DA5590A81C5E46/"
-        },
-        {
-            "id": 15,
-            "title": "Интернет-магазин Ситилинк",
-            "description": "Специальные предложения от интернет-магазина Ситилинк выгодное предложение",
-            "end_date": "1721446757",
-            "city": "Санкт-петербург",
-            "country": "Россия",
-            "banner": "https://u.9111s.ru/uploads/202201/27/f1f8797d02fd42bfbf0f3a965962aec1.jpg"
-        },
-        {
-            "id": 16,
-            "title": "Интернет-магазин Ситилинк",
-            "description": "Специальные предложения от интернет-магазина Ситилинк выгодное предложение",
-            "end_date": "1721446757",
-            "city": "Москва",
-            "country": "Россия",
-            "banner": "https://u.9111s.ru/uploads/202201/27/f1f8797d02fd42bfbf0f3a965962aec1.jpg"
         }
     ],
     "products": [
